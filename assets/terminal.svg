@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="392" viewBox="0 0 1000 392" role="img" aria-label="Terminal introduction of Peehu Patel">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0D1330"/><stop offset="1" stop-color="#0B1020"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="998" height="390" rx="16" fill="url(#g)" stroke="#26305A" stroke-width="1.5"/>
+  <path d="M1 17A16 16 0 0 1 17 1H983a16 16 0 0 1 16 16V50H1z" fill="#151C42"/>
+  <circle cx="30" cy="26" r="7" fill="#FF5F57"/><circle cx="54" cy="26" r="7" fill="#FEBC2E"/><circle cx="78" cy="26" r="7" fill="#28C840"/>
+  <text x="500.0" y="31" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#8A94B8">peehu@portfolio: ~</text>
+  
+    <text x="40" y="100" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" opacity="0">
+      <tspan fill="#34D399">peehu@portfolio</tspan><tspan fill="#E6EAF7">:</tspan><tspan fill="#38BDF8">~</tspan><tspan fill="#E6EAF7">$ </tspan><tspan fill="#E6EAF7">whoami</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="0.40s" dur="0.3s" fill="freeze"/>
+    </text>
+    <text x="40" y="128" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="16" fill="#FFB547" opacity="0">Peehu Patel  ·  Web Developer
+      <animate attributeName="opacity" from="0" to="1" begin="0.95s" dur="0.3s" fill="freeze"/>
+    </text>
+    <text x="40" y="164" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" opacity="0">
+      <tspan fill="#34D399">peehu@portfolio</tspan><tspan fill="#E6EAF7">:</tspan><tspan fill="#38BDF8">~</tspan><tspan fill="#E6EAF7">$ </tspan><tspan fill="#E6EAF7">cat skills.txt</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="1.50s" dur="0.3s" fill="freeze"/>
+    </text>
+    <text x="40" y="192" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="16" fill="#FFB547" opacity="0">HTML5  ·  CSS3  ·  JavaScript  ·  REST APIs  ·  Git &amp; GitHub
+      <animate attributeName="opacity" from="0" to="1" begin="2.05s" dur="0.3s" fill="freeze"/>
+    </text>
+    <text x="40" y="228" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" opacity="0">
+      <tspan fill="#34D399">peehu@portfolio</tspan><tspan fill="#E6EAF7">:</tspan><tspan fill="#38BDF8">~</tspan><tspan fill="#E6EAF7">$ </tspan><tspan fill="#E6EAF7">cat experience.txt</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="2.60s" dur="0.3s" fill="freeze"/>
+    </text>
+    <text x="40" y="256" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="16" fill="#FFB547" opacity="0">Web Development Intern @ Prodigy InfoTech  ·  4 projects shipped
+      <animate attributeName="opacity" from="0" to="1" begin="3.15s" dur="0.3s" fill="freeze"/>
+    </text>
+    <text x="40" y="292" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" opacity="0">
+      <tspan fill="#34D399">peehu@portfolio</tspan><tspan fill="#E6EAF7">:</tspan><tspan fill="#38BDF8">~</tspan><tspan fill="#E6EAF7">$ </tspan><tspan fill="#E6EAF7">echo $GOAL</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="3.70s" dur="0.3s" fill="freeze"/>
+    </text>
+    <text x="40" y="320" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="16" fill="#FFB547" opacity="0">Build fast, accessible, beautiful products people love to use.
+      <animate attributeName="opacity" from="0" to="1" begin="4.25s" dur="0.3s" fill="freeze"/>
+    </text>
+  <text x="40" y="360" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" fill="#34D399" textLength="190" lengthAdjust="spacing">peehu@portfolio<tspan fill="#E6EAF7">:</tspan><tspan fill="#38BDF8">~</tspan><tspan fill="#E6EAF7">$ </tspan></text>
+  <rect x="234" y="346" width="10" height="19" fill="#00E5FF">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>

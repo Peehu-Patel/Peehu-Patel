@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Peehu Patel - Web Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1020"/><stop offset="1" stop-color="#161D40"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00E5FF"/><stop offset="0.55" stop-color="#8B5CF6"/><stop offset="1" stop-color="#FF5FA2"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#FFFFFF" stroke-opacity="0.045"/>
+    </pattern>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="55"/></filter>
+    <clipPath id="clip"><rect width="1200" height="320" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <rect width="1200" height="320" fill="url(#grid)"/>
+    <g filter="url(#blur)">
+      <circle cx="180" cy="60" r="110" fill="#8B5CF6" opacity="0.38">
+        <animate attributeName="cx" values="180;320;180" dur="14s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="60;120;60" dur="11s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="1000" cy="260" r="120" fill="#00E5FF" opacity="0.26">
+        <animate attributeName="cx" values="1000;880;1000" dur="12s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="260;180;260" dur="9s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="640" cy="320" r="90" fill="#FF5FA2" opacity="0.2">
+        <animate attributeName="cx" values="640;740;640" dur="16s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <text x="70" y="92" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" letter-spacing="5" fill="#00E5FF">&lt; HELLO, WORLD /&gt;</text>
+    <text x="70" y="172" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="84" font-weight="800" fill="url(#name)">Peehu Patel</text>
+    
+    <text x="70" y="218" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="600" fill="#E6EAF7" opacity="0">
+      <tspan fill="#00E5FF" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace">&gt; </tspan>Web Developer
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.29;0.33;1" dur="9s" repeatCount="indefinite"/>
+    </text>
+    <text x="70" y="218" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="600" fill="#E6EAF7" opacity="0">
+      <tspan fill="#00E5FF" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace">&gt; </tspan>Frontend Enthusiast
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.33;0.37;0.62;0.66;1" dur="9s" repeatCount="indefinite"/>
+    </text>
+    <text x="70" y="218" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="600" fill="#E6EAF7" opacity="0">
+      <tspan fill="#00E5FF" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace">&gt; </tspan>Problem Solver
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.66;0.70;0.95;1" dur="9s" repeatCount="indefinite"/>
+    </text>
+    <text x="70" y="256" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" fill="#8A94B8">Crafting clean, responsive &amp; interactive web experiences.</text>
+    
+    <g>
+      <rect x="70" y="270" width="78" height="26" rx="13" fill="#FFB547" fill-opacity="0.12" stroke="#FFB547" stroke-opacity="0.55"/>
+      <text x="109.0" y="288" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12.5" fill="#FFB547">HTML5</text>
+    </g>
+    <g>
+      <rect x="160" y="270" width="70" height="26" rx="13" fill="#38BDF8" fill-opacity="0.12" stroke="#38BDF8" stroke-opacity="0.55"/>
+      <text x="195.0" y="288" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12.5" fill="#38BDF8">CSS3</text>
+    </g>
+    <g>
+      <rect x="242" y="270" width="112" height="26" rx="13" fill="#F7DF1E" fill-opacity="0.12" stroke="#F7DF1E" stroke-opacity="0.55"/>
+      <text x="298.0" y="288" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12.5" fill="#F7DF1E">JavaScript</text>
+    </g>
+
+    <g>
+      <rect x="770" y="48" width="370" height="224" rx="14" fill="#0D1330" stroke="#26305A"/>
+      <path d="M770 62a14 14 0 0 1 14-14h342a14 14 0 0 1 14 14v22H770z" fill="#151C42"/>
+      <circle cx="792" cy="66" r="6" fill="#FF5F57"/><circle cx="812" cy="66" r="6" fill="#FEBC2E"/><circle cx="832" cy="66" r="6" fill="#28C840"/>
+      <text x="955" y="70" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#8A94B8">peehu.js</text>
+      
+    <text x="796" y="118" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" opacity="0"><tspan fill="#8B5CF6">const </tspan><tspan fill="#00E5FF">peehu</tspan><tspan fill="#E6EAF7"> = {</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="0.50s" dur="0.35s" fill="freeze"/>
+    </text>
+    <text x="820" y="143" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" opacity="0"><tspan fill="#FF5FA2">role</tspan><tspan fill="#E6EAF7">: </tspan><tspan fill="#34D399">"Web Developer"</tspan><tspan fill="#E6EAF7">,</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="0.95s" dur="0.35s" fill="freeze"/>
+    </text>
+    <text x="820" y="168" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" opacity="0"><tspan fill="#FF5FA2">stack</tspan><tspan fill="#E6EAF7">: [</tspan><tspan fill="#34D399">"HTML"</tspan><tspan fill="#E6EAF7">, </tspan><tspan fill="#34D399">"CSS"</tspan><tspan fill="#E6EAF7">, </tspan><tspan fill="#34D399">"JS"</tspan><tspan fill="#E6EAF7">],</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="1.40s" dur="0.35s" fill="freeze"/>
+    </text>
+    <text x="820" y="193" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" opacity="0"><tspan fill="#FF5FA2">passion</tspan><tspan fill="#E6EAF7">: </tspan><tspan fill="#34D399">"Clean UI"</tspan><tspan fill="#E6EAF7">,</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="1.85s" dur="0.35s" fill="freeze"/>
+    </text>
+    <text x="820" y="218" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" opacity="0"><tspan fill="#FF5FA2">learning</tspan><tspan fill="#E6EAF7">: </tspan><tspan fill="#FFB547">true</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="2.30s" dur="0.35s" fill="freeze"/>
+    </text>
+    <text x="796" y="243" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" opacity="0"><tspan fill="#E6EAF7">};</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="2.75s" dur="0.35s" fill="freeze"/>
+    </text>
+      <rect x="820" y="249" width="9" height="3" fill="#00E5FF">
+        <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+    <rect x="0.5" y="0.5" width="1199" height="319" rx="18" fill="none" stroke="#26305A"/>
+  </g>
+</svg>

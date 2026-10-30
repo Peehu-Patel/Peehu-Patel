@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" role="img" aria-label="Highlights">
+  <g transform="translate(0.0 0)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.00s" dur="0.5s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0.0 14" to="0.0 0" begin="0.00s" dur="0.5s" fill="freeze"/>
+    <rect x="1" y="1" width="228" height="148" rx="14" fill="#10162E" stroke="#26305A"/>
+    <rect x="1" y="1" width="228" height="4" rx="2" fill="#00E5FF"/>
+    <text x="24" y="66" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="46" font-weight="800" fill="#00E5FF">4</text>
+    <text x="24" y="94" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="700" fill="#E6EAF7">Projects shipped</text>
+    <text x="24" y="113" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12" fill="#8A94B8">Public repositories</text>
+    <rect x="24" y="128" width="182" height="5" rx="2.5" fill="#26305A"/>
+    <rect x="24" y="128" width="0" height="5" rx="2.5" fill="#00E5FF">
+      <animate attributeName="width" from="0" to="182" begin="0.40s" dur="1.2s" fill="freeze"/>
+    </rect>
+  </g>
+  <g transform="translate(256.7 0)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.15s" dur="0.5s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="256.7 14" to="256.7 0" begin="0.15s" dur="0.5s" fill="freeze"/>
+    <rect x="1" y="1" width="228" height="148" rx="14" fill="#10162E" stroke="#26305A"/>
+    <rect x="1" y="1" width="228" height="4" rx="2" fill="#FFB547"/>
+    <text x="24" y="66" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="46" font-weight="800" fill="#FFB547">3</text>
+    <text x="24" y="94" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="700" fill="#E6EAF7">Core technologies</text>
+    <text x="24" y="113" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12" fill="#8A94B8">HTML · CSS · JavaScript</text>
+    <rect x="24" y="128" width="182" height="5" rx="2.5" fill="#26305A"/>
+    <rect x="24" y="128" width="0" height="5" rx="2.5" fill="#FFB547">
+      <animate attributeName="width" from="0" to="182" begin="0.55s" dur="1.2s" fill="freeze"/>
+    </rect>
+  </g>
+  <g transform="translate(513.3 0)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.30s" dur="0.5s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="513.3 14" to="513.3 0" begin="0.30s" dur="0.5s" fill="freeze"/>
+    <rect x="1" y="1" width="228" height="148" rx="14" fill="#10162E" stroke="#26305A"/>
+    <rect x="1" y="1" width="228" height="4" rx="2" fill="#34D399"/>
+    <text x="24" y="66" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="46" font-weight="800" fill="#34D399">1</text>
+    <text x="24" y="94" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="700" fill="#E6EAF7">Live API integrated</text>
+    <text x="24" y="113" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12" fill="#8A94B8">Open-Meteo weather data</text>
+    <rect x="24" y="128" width="182" height="5" rx="2.5" fill="#26305A"/>
+    <rect x="24" y="128" width="0" height="5" rx="2.5" fill="#34D399">
+      <animate attributeName="width" from="0" to="182" begin="0.70s" dur="1.2s" fill="freeze"/>
+    </rect>
+  </g>
+  <g transform="translate(770.0 0)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.45s" dur="0.5s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="770.0 14" to="770.0 0" begin="0.45s" dur="0.5s" fill="freeze"/>
+    <rect x="1" y="1" width="228" height="148" rx="14" fill="#10162E" stroke="#26305A"/>
+    <rect x="1" y="1" width="228" height="4" rx="2" fill="#FF5FA2"/>
+    <text x="24" y="66" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="46" font-weight="800" fill="#FF5FA2">0</text>
+    <text x="24" y="94" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="700" fill="#E6EAF7">Frameworks used</text>
+    <text x="24" y="113" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12" fill="#8A94B8">Pure vanilla stack</text>
+    <rect x="24" y="128" width="182" height="5" rx="2.5" fill="#26305A"/>
+    <rect x="24" y="128" width="0" height="5" rx="2.5" fill="#FF5FA2">
+      <animate attributeName="width" from="0" to="182" begin="0.85s" dur="1.2s" fill="freeze"/>
+    </rect>
+  </g>
+</svg>

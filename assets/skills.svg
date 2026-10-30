@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="440" viewBox="0 0 1000 440" role="img" aria-label="Tech stack">
+  <text x="28" y="38" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12.5" letter-spacing="3" fill="#00E5FF">FRONTEND</text>
+  <line x1="112" y1="34" x2="972" y2="34" stroke="#00E5FF" stroke-opacity="0.25"/>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.00s" dur="0.4s" fill="freeze"/>
+    <rect x="28.0" y="56" width="90.0" height="36" rx="10" fill="#10162E" stroke="#00E5FF" stroke-opacity="0.55"/>
+    <circle cx="44.0" cy="74" r="4" fill="#00E5FF"/>
+    <text x="57.0" y="79" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="600" fill="#E6EAF7">HTML5</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.06s" dur="0.4s" fill="freeze"/>
+    <rect x="130.0" y="56" width="80.8" height="36" rx="10" fill="#10162E" stroke="#00E5FF" stroke-opacity="0.55"/>
+    <circle cx="146.0" cy="74" r="4" fill="#00E5FF"/>
+    <text x="159.0" y="79" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="600" fill="#E6EAF7">CSS3</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.12s" dur="0.4s" fill="freeze"/>
+    <rect x="222.8" y="56" width="191.2" height="36" rx="10" fill="#10162E" stroke="#00E5FF" stroke-opacity="0.55"/>
+    <circle cx="238.8" cy="74" r="4" fill="#00E5FF"/>
+    <text x="251.8" y="79" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="600" fill="#E6EAF7">JavaScript (ES6)</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.18s" dur="0.4s" fill="freeze"/>
+    <rect x="426.0" y="56" width="200.4" height="36" rx="10" fill="#10162E" stroke="#00E5FF" stroke-opacity="0.55"/>
+    <circle cx="442.0" cy="74" r="4" fill="#00E5FF"/>
+    <text x="455.0" y="79" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="600" fill="#E6EAF7">Responsive Design</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.24s" dur="0.4s" fill="freeze"/>
+    <rect x="638.4" y="56" width="191.2" height="36" rx="10" fill="#10162E" stroke="#00E5FF" stroke-opacity="0.55"/>
+    <circle cx="654.4" cy="74" r="4" fill="#00E5FF"/>
+    <text x="667.4" y="79" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="600" fill="#E6EAF7">DOM Manipulation</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.30s" dur="0.4s" fill="freeze"/>
+    <rect x="28.0" y="102" width="172.8" height="36" rx="10" fill="#10162E" stroke="#00E5FF" stroke-opacity="0.55"/>
+    <circle cx="44.0" cy="120" r="4" fill="#00E5FF"/>
+    <text x="57.0" y="125" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="600" fill="#E6EAF7">CSS Animations</text>
+  </g>
+  <text x="28" y="178" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12.5" letter-spacing="3" fill="#34D399">APIS &amp; BROWSER</text>
+  <line x1="175" y1="174" x2="972" y2="174" stroke="#34D399" stroke-opacity="0.25"/>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.36s" dur="0.4s" fill="freeze"/>
+    <rect x="28.0" y="196" width="126.8" height="36" rx="10" fill="#10162E" stroke="#34D399" stroke-opacity="0.55"/>
+    <circle cx="44.0" cy="214" r="4" fill="#34D399"/>
+    <text x="57.0" y="219" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="600" fill="#E6EAF7">REST APIs</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.42s" dur="0.4s" fill="freeze"/>
+    <rect x="166.8" y="196" width="126.8" height="36" rx="10" fill="#10162E" stroke="#34D399" stroke-opacity="0.55"/>
+    <circle cx="182.8" cy="214" r="4" fill="#34D399"/>
+    <text x="195.8" y="219" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="600" fill="#E6EAF7">Fetch API</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.48s" dur="0.4s" fill="freeze"/>
+    <rect x="305.6" y="196" width="182.0" height="36" rx="10" fill="#10162E" stroke="#34D399" stroke-opacity="0.55"/>
+    <circle cx="321.6" cy="214" r="4" fill="#34D399"/>
+    <text x="334.6" y="219" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="600" fill="#E6EAF7">Geolocation API</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.54s" dur="0.4s" fill="freeze"/>
+    <rect x="499.6" y="196" width="80.8" height="36" rx="10" fill="#10162E" stroke="#34D399" stroke-opacity="0.55"/>
+    <circle cx="515.6" cy="214" r="4" fill="#34D399"/>
+    <text x="528.6" y="219" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="600" fill="#E6EAF7">JSON</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.60s" dur="0.4s" fill="freeze"/>
+    <rect x="592.4" y="196" width="136.0" height="36" rx="10" fill="#10162E" stroke="#34D399" stroke-opacity="0.55"/>
+    <circle cx="608.4" cy="214" r="4" fill="#34D399"/>
+    <text x="621.4" y="219" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="600" fill="#E6EAF7">Open-Meteo</text>
+  </g>
+  <text x="28" y="272" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12.5" letter-spacing="3" fill="#FFB547">TOOLS &amp; WORKFLOW</text>
+  <line x1="196" y1="268" x2="972" y2="268" stroke="#FFB547" stroke-opacity="0.25"/>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.66s" dur="0.4s" fill="freeze"/>
+    <rect x="28.0" y="290" width="71.6" height="36" rx="10" fill="#10162E" stroke="#FFB547" stroke-opacity="0.55"/>
+    <circle cx="44.0" cy="308" r="4" fill="#FFB547"/>
+    <text x="57.0" y="313" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="600" fill="#E6EAF7">Git</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.72s" dur="0.4s" fill="freeze"/>
+    <rect x="111.6" y="290" width="99.2" height="36" rx="10" fill="#10162E" stroke="#FFB547" stroke-opacity="0.55"/>
+    <circle cx="127.6" cy="308" r="4" fill="#FFB547"/>
+    <text x="140.6" y="313" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="600" fill="#E6EAF7">GitHub</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.78s" dur="0.4s" fill="freeze"/>
+    <rect x="222.8" y="290" width="108.4" height="36" rx="10" fill="#10162E" stroke="#FFB547" stroke-opacity="0.55"/>
+    <circle cx="238.8" cy="308" r="4" fill="#FFB547"/>
+    <text x="251.8" y="313" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="600" fill="#E6EAF7">VS Code</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.84s" dur="0.4s" fill="freeze"/>
+    <rect x="343.2" y="290" width="145.2" height="36" rx="10" fill="#10162E" stroke="#FFB547" stroke-opacity="0.55"/>
+    <circle cx="359.2" cy="308" r="4" fill="#FFB547"/>
+    <text x="372.2" y="313" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="600" fill="#E6EAF7">Live Server</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.90s" dur="0.4s" fill="freeze"/>
+    <rect x="500.4" y="290" width="154.4" height="36" rx="10" fill="#10162E" stroke="#FFB547" stroke-opacity="0.55"/>
+    <circle cx="516.4" cy="308" r="4" fill="#FFB547"/>
+    <text x="529.4" y="313" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="600" fill="#E6EAF7">Google Fonts</text>
+  </g>
+  <text x="28" y="366" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12.5" letter-spacing="3" fill="#FF5FA2">EXPLORING NEXT</text>
+  <line x1="175" y1="362" x2="972" y2="362" stroke="#FF5FA2" stroke-opacity="0.25"/>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.96s" dur="0.4s" fill="freeze"/>
+    <rect x="28.0" y="384" width="90.0" height="36" rx="10" fill="#10162E" stroke="#FF5FA2" stroke-opacity="0.55" stroke-dasharray="5 4"/>
+    <circle cx="44.0" cy="402" r="4" fill="#FF5FA2"/>
+    <text x="57.0" y="407" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="600" fill="#E6EAF7">React</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.02s" dur="0.4s" fill="freeze"/>
+    <rect x="130.0" y="384" width="108.4" height="36" rx="10" fill="#10162E" stroke="#FF5FA2" stroke-opacity="0.55" stroke-dasharray="5 4"/>
+    <circle cx="146.0" cy="402" r="4" fill="#FF5FA2"/>
+    <text x="159.0" y="407" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="600" fill="#E6EAF7">Node.js</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.08s" dur="0.4s" fill="freeze"/>
+    <rect x="250.4" y="384" width="136.0" height="36" rx="10" fill="#10162E" stroke="#FF5FA2" stroke-opacity="0.55" stroke-dasharray="5 4"/>
+    <circle cx="266.4" cy="402" r="4" fill="#FF5FA2"/>
+    <text x="279.4" y="407" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="600" fill="#E6EAF7">TypeScript</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.14s" dur="0.4s" fill="freeze"/>
+    <rect x="398.4" y="384" width="154.4" height="36" rx="10" fill="#10162E" stroke="#FF5FA2" stroke-opacity="0.55" stroke-dasharray="5 4"/>
+    <circle cx="414.4" cy="402" r="4" fill="#FF5FA2"/>
+    <text x="427.4" y="407" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="600" fill="#E6EAF7">Tailwind CSS</text>
+  </g>
+</svg>
